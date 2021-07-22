@@ -1,5 +1,5 @@
 ### Hi im xFijo
-I am a Node.js developer and i know a small bit of python!
+I am a Node.js & Python Developer
 
 My discord servers:
 • [Sirius](https://discord.gg/emM7FpBv3d)

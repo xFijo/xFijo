@@ -11,9 +11,7 @@ ________________________________________________________________________________
 <img src="https://github-readme-stats.vercel.app/api?username=xFijo&show_icons=true&theme=highcontrast&count_private=true" alt="Github Stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xFijo&layout=compact&theme=highcontrast&count_private=true" alt="Github Stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xFijo&theme=highcontrast&count_private=true" alt="Github Stats"/>
-_______________________________________________________________________________________________________________________________________________________________________
 
-Main Languages: 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png?size=20"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png?size=20"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png?size=20"/>

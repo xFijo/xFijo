@@ -10,6 +10,7 @@ My discord servers:
 ___________________________________________________________________________________________________________________________________________________________________________________
 <img src="https://github-readme-stats.vercel.app/api?username=xFijo&show_icons=true&theme=highcontrast&count_private=true" alt="Github Stats"/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xFijo&langs_count=8)](https://github.com/xFijo/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xFijo&theme=highcontrast&count_private=true" alt="Github Stats"/>
 _______________________________________________________________________________________________________________________________________________________________________
 
 

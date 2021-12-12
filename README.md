@@ -1,7 +1,7 @@
 ### Hi im xFijo
 I am a JavaScript & Python Developer with a very small amount of HTML knowledge.
   
-  ![Profile views](https://gpvc.arturio.dev/xFijo)
+  ![Profile Views](https://gpvc.arturio.dev/xFijo)
 
 ### My discord servers:
 • [Sirius](https://discord.gg/emM7FpBv3d)

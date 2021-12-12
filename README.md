@@ -8,6 +8,7 @@ I am a JavaScript & Python Developer with a very small amount of HTML knowledge.
 • [Glow](https://discord.gg/MGETjxW7Y8)
 • [Fijo's Tools]( https://discord.gg/FVaKuDPxHa)
 ___________________________________________________________________________________________________________________________________________________________________________________
+### Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=xFijo&show_icons=true&theme=highcontrast&count_private=true" alt="Github Stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xFijo&layout=compact&theme=highcontrast&count_private=true" alt="Github Stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xFijo&theme=highcontrast&count_private=true" alt="Github Stats"/>

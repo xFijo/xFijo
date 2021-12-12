@@ -9,7 +9,7 @@ I am a JavaScript & Python Developer with a very small amount of HTML knowledge.
 • [Fijo's Tools]( https://discord.gg/FVaKuDPxHa)
 ___________________________________________________________________________________________________________________________________________________________________________________
 ### My Discord Profile
-[![Discord](https://lanyard-profile-readme.vercel.app/api/:id)](https://discord.com/users/612670639551021059)
+[![Discord](https://lanyard-profile-readme.vercel.app/api/612670639551021059)](https://discord.com/users/612670639551021059)
 ___________________________________________________________________________________________________________________________________________________________________________________
 ### Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=xFijo&show_icons=true&theme=highcontrast&count_private=true" alt="Github Stats"/>

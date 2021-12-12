@@ -3,7 +3,7 @@ I am a JavaScript & Python Developer with a very small amount of HTML knowledge.
   
   ![Profile views](https://gpvc.arturio.dev/xFijo)
 
-My discord servers:
+### My discord servers:
 • [Sirius](https://discord.gg/emM7FpBv3d)
 • [Glow](https://discord.gg/MGETjxW7Y8)
 • [Fijo's Tools]( https://discord.gg/FVaKuDPxHa)
@@ -13,7 +13,7 @@ ________________________________________________________________________________
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xFijo&theme=highcontrast&count_private=true" alt="Github Stats"/>
 
 ___________________________________________________________________________________________________________________________________________________________________________________
-Main Languages:
+### Main Languages:
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png?size=20"/>
 

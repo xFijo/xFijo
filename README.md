@@ -1,6 +1,6 @@
 ### Hi im xFijo
 I am a Node.js & Python Developer
-___________________________________________________________________________________________________________________________________________________________________________________
+
 My discord servers:
 • [Sirius](https://discord.gg/emM7FpBv3d)
 • [Glow](https://discord.gg/MGETjxW7Y8)
@@ -11,5 +11,4 @@ ________________________________________________________________________________
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xFijo&layout=compact&theme=highcontrast&count_private=true" alt="Github Stats"/>
 _______________________________________________________________________________________________________________________________________________________________________
 
-[![Fijo's Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=xFijo)](https://github.com/xFijo/github-readme-stats)
 

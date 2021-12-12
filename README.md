@@ -1,6 +1,7 @@
 ### Hi im xFijo
 I am a Node.js & Python Developer
-![Profile views](https://gpvc.arturio.dev/xFijo)
+  ![Profile views](https://gpvc.arturio.dev/xFijo)
+
 My discord servers:
 • [Sirius](https://discord.gg/emM7FpBv3d)
 • [Glow](https://discord.gg/MGETjxW7Y8)

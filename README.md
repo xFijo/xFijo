@@ -11,3 +11,5 @@ ________________________________________________________________________________
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xFijo&layout=compact&theme=highcontrast&count_private=true" alt="Github Stats"/>
 _______________________________________________________________________________________________________________________________________________________________________
 
+[![Fijo's Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=xFijo)](https://github.com/xFijo/github-readme-stats)
+

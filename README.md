@@ -1,5 +1,5 @@
 ### Hi im xFijo
-I am a JavaScript & Python Developer with a very small amount of HTML knowledge.
+I am a JavaScript & Python Developer with a small amount of HTML knowledge.
   
   ![Profile Views](https://gpvc.arturio.dev/xFijo)
 
